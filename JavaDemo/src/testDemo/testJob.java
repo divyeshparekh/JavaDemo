@@ -8,7 +8,7 @@ import org.junit.Test;
 
 public class testJob {
 	@Test
-	public static void testMethod() {
+	public void testMethod() {
 		
 		String str = "first";
 		Assert.assertEquals(str, "first");
