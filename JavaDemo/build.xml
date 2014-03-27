@@ -11,7 +11,7 @@
 	<property name="ws.jars" value="/home/attune/Documents/Divyesh/JAVA/SQ/Jars"/>
     <property name="test.dest" value="${ws.home}/build"/>
     <property name="test.src" value="${ws.home}/src"/>
-	<property name="test.reportsDir" value="/root/.jenkins/jobs/JavaDemo/workspace/JavaDemo"/>
+	<property name="test.reportsDir" value="/root/.jenkins/jobs/JavaDemo/workspace/JavaDemo/Report"/>
 
 	
 
