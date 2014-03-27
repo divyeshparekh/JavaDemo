@@ -112,7 +112,7 @@
 			    <batchtest  todir="${test.reportsDir}" fork="true">  
 			    <fileset dir="${test.dest}">  
 			       
-			        <include name="**/myFirstTestCase.class" />
+			        <include name="**/testJob.class" />
 			        <!--include name="tests/suite1/FirstSuiteRunner.class" />
 			        <include name="tests/suite1/FirstSuiteRunner.class" /-->
 
