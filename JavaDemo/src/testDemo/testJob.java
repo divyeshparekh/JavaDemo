@@ -1,9 +1,18 @@
 package testDemo;
 
+
+
+import junit.framework.Assert;
+
 import org.junit.Test;
+
 public class testJob {
 	@Test
-	public void testMethod() {
-		System.out.println("first");
+	public static void testMethod() {
+		
+		String str = "first";
+		Assert.assertEquals(str, "first");
+		
 	}
+
 }
