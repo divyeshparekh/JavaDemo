@@ -11,7 +11,7 @@ public class testJob {
 	public void testMethod() {
 		
 		String str = "first";
-		Assert.assertEquals(str, "first");
+		Assert.assertEquals(str, "second");
 		
 	}
 
